@@ -1,0 +1,1 @@
+In this query, WQqAtYq appears to be a significant column as it is being used as the key to join the table PMtIgwpH with itself (which is aliased as E and ET). Specifically:

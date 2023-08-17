@@ -1,0 +1,1 @@
+please show me the significance of column1 in this query:
