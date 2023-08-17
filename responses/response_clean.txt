@@ -1,1 +1,0 @@
-In this query, column1 appears to be a significant column as it is being used as the key to join the table my_table with itself (which is aliased as t and tt). Specifically:
