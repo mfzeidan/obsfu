@@ -43,7 +43,7 @@ obsfu/
 └── responses/
     ├── obfuscated_response.txt
     └── response_clean.txt
-
+```
 ## Usage
 
 1. Place your SQL file and prompt text file in the `input_files/` directory.
