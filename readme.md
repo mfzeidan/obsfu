@@ -29,22 +29,20 @@ This tool allows users to securely share SQL queries without exposing sensitive 
 
 ## Directory Structure
 
+```plaintext
 obsfu/
 ├── app/
-│ ├── obfuscator.py
-│ └── deobfuscator.py
+│   ├── obfuscator.py
+│   └── deobfuscator.py
 ├── input_files/
-│ ├── example_query.sql
-│ └── prompt.txt
+│   ├── example_query.sql
+│   └── prompt.txt
 ├── output_files/
-│ ├── example_query_obfuscated.sql
-│ └── mapping.json
+│   ├── example_query_obfuscated.sql
+│   └── mapping.json
 └── responses/
-├── obfuscated_response.txt
-└── response_clean.txt
-
-markdown
-Copy code
+    ├── obfuscated_response.txt
+    └── response_clean.txt
 
 ## Usage
 
